@@ -13,5 +13,6 @@ Added features:
 Please contact me with any questions!
 
 Credit to: http://www.eyecon.ro/colorpicker/ for the jQuery color picker plugin!
+
 Also, credit to Max Novakovic (http://www.maxnov.com/getimagedata) for the getimagedata API for extracting image data from the canvas!
 
